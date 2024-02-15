@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is Our Blog for Project in a HCI course
 
-Maybe say a some things about yourself.
+It's about Digital Will on social media
 
-Or maybe what you plan to blog about.
+We will keep updating on our progress!
