@@ -57,7 +57,7 @@ There’s some participants thinking of contact list inheritance or sending out 
 Discussion on different design alternatives, their pros and cons, and the decision to pursue a more user-friendly and legally compliant solution.
 
 
-# Design Alternative 1
+## Design Alternative 1
 
 A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
@@ -77,7 +77,7 @@ A certification authorized by the government which descendents could take it to 
 
 ---
 
-# Design Alternative 2
+## Design Alternative 2
 
 An account verification tool similar to DUO to get verification every time an account is related to the tool, and there is a feature that no one can access to any connected account after passing by.
 
@@ -103,7 +103,7 @@ Another rough idea is like an integrated account management system, but however 
 
 ---
 
-# Design Alternative 3
+## Design Alternative 3
 
 A website/app where users can log in to access their “digital will.”
 
