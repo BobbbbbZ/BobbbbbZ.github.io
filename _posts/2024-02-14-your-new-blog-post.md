@@ -62,17 +62,63 @@ Discussion on different design alternatives, their pros and cons, and the decisi
 
 A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
-![Alternative Design 1](alter_1.jpg)
+![Alternative Design 1](Image/MSII Update 2/alter_2.jpg)
 
-## Pros and Cons
+**Pros**
 
-- Simple and easy to use.
-- Multiple levels of security.
-- Accessible via phone or website.
+- If recognized by law, this can streamline the process of transferring digital assets.
+- A universal system might make it easier for companies to have a consistent process for transferring accounts.
+- Having this physical document could clarify the intention of the deceased, minimizing disputes among potential heirs.
+- The expiration date suggests periodic updates which ensure the information is still in the latest version.
 
-Cons include potential oversimplification and the need for more features.
-
-![Interface Mockup](image2.png)
+**Cons**
+- The physical certificates can be forged, potentially leading to fraudulent claims.
+- Different jurisdictions have different laws governing digital assets, which could complicate the implementation of a single system.
+- In the event of sudden death, accessing the certificate might be difficult if it's kept in a secure or unknown location by the account holder.
 
 ---
 
+# Design Alternative 2
+
+An account verification tool similar to DUO to get verification every time an account is related to the tool, and there is a feature that no one can access to any connected account after passing by.
+
+![Alternative Design 2](Image/MSII Update 2/alter_1.jpg)
+
+**Pros**
+
+- By requiring verification every time an account is accessed, it significantly reduces the risk of unauthorized access.
+- Every access attempt is likely logged, making it easier to track unauthorized attempts and ensuring only legitimate accesses are made.
+- The tool allows for specific permissions to be set for different users, providing flexibility in how digital assets are managed posthumously.
+
+
+**Cons**
+- Frequent verifications can be cumbersome and may deter users from using the platform as frequently.
+- If the verification relies on secondary devices (like a smartphone), losing or damaging the device can prevent access.
+- If one tool manages access for multiple platforms, a single point of failure could jeopardize security across all connected accounts.
+
+We have to keep a balance between security and accessibility.
+
+Even though both designs can manage the security of the account, there are additional legal concerns that arise. Therefore, due to these issues, we will not pursue either of those two options.
+
+Another rough idea is like an integrated account management system, but however similar to the previous one,  it concerns more legal rights issues, so we did not move on that design. Since we act as the third party platform where we hold tons of personal information.
+
+---
+
+# Design Alternative 3
+
+A website/app where users can log in to access their “digital will.”
+
+![Alternative Design 2](Image/MSII Update 2/lowfi_1.png)
+
+Once logged in, users will have the option to select any of the active “social media accounts.” When they click on one, it’s profile will pop up on the right. This will include instructions on how the account should be dealt with, the username/password, any additional security information (two-factor authentication, etc.), and an updated summary of any procedures that specific social media platform has for individuals who pass away.
+
+![Alternative Design 2](Image/MSII Update 2/lowfi_2.png)
+**Pros**
+
+- simple/easy to use
+- can easily add multiple levels of security (extra passwords to view passwords etc.)
+- app can be easily downloaded on phone - or accessed as a website
+
+
+**Cons**
+- too simple? (do we need more features?)
