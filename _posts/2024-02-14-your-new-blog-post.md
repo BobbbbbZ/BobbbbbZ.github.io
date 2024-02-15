@@ -61,7 +61,7 @@ Discussion on different design alternatives, their pros and cons, and the decisi
 
 A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
-![Alternative Design 1](https://github.com/BobbbbbZ/BobbbbbZ.github.io/blob/main/image/MSIIUpdate2/alter_1.jpg)
+![Alter1](https://github.com/BobbbbbZ/CPEN291_Lab3_source/blob/main/alter_1.jpg)
 
 **Pros**
 
@@ -81,7 +81,7 @@ A certification authorized by the government which descendents could take it to 
 
 An account verification tool similar to DUO to get verification every time an account is related to the tool, and there is a feature that no one can access to any connected account after passing by.
 
-![Alternative Design 2](../image/MSIIUpdate2/alter_2.jpg)
+![Alter2](https://github.com/BobbbbbZ/CPEN291_Lab3_source/blob/main/alter_2.jpg)
 
 **Pros**
 
@@ -107,11 +107,11 @@ Another rough idea is like an integrated account management system, but however 
 
 A website/app where users can log in to access their “digital will.”
 
-![Login Page](../image/MSIIUpdate2/lowfi_1.jpg)
+![Login](https://github.com/BobbbbbZ/CPEN291_Lab3_source/blob/main/lowfi_1.jpg)
 
 Once logged in, users will have the option to select any of the active “social media accounts.” When they click on one, it’s profile will pop up on the right. This will include instructions on how the account should be dealt with, the username/password, any additional security information (two-factor authentication, etc.), and an updated summary of any procedures that specific social media platform has for individuals who pass away.
 
-![Main Page](../image/MSIIUpdate2/lowfi_2.jpg)
+![Main](https://github.com/BobbbbbZ/CPEN291_Lab3_source/blob/main/lowfi_2.jpg)
 
 **Pros**
 
