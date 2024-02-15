@@ -61,7 +61,7 @@ Discussion on different design alternatives, their pros and cons, and the decisi
 
 A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
-![Alternative Design 1](../image/MSIIUpdate2/alter_1.jpg)
+![Alternative Design 1](https://github.com/BobbbbbZ/BobbbbbZ.github.io/blob/main/image/MSIIUpdate2/alter_1.jpg)
 
 **Pros**
 
