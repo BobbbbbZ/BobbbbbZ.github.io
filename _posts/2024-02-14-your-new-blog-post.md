@@ -62,7 +62,7 @@ Discussion on different design alternatives, their pros and cons, and the decisi
 
 A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
-(alter_1.jpg)
+![Alternative Design 1](alter_1.jpg)
 
 ## Pros and Cons
 
