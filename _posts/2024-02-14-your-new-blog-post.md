@@ -38,13 +38,15 @@ These revisions address the cumbersome process faced by Joy in transferring digi
 # Prioritized List of Requirements
 
 1. **Choice and Control Over Digital Presence**
-   Participants desire specific actions for their digital accounts post-mortem, including   deletion or preservation for descendants, leaving some openness to descendants downloading content before the deletion.
 
+   Participants desire specific actions for their digital accounts post-mortem, including   deletion or preservation for descendants, leaving some openness to descendants downloading content before the deletion.
 2. **Data Security(not pretty focus on this but prioritized in real implementation)**
 3. **Management of Photos**
+   
    Photos are an important concern than messages for most of the participants. Where they might choose to leave the photos to their descendants rather than their messages.
 4. **Management of Contacts**
 There’s some participants thinking of contact list inheritance or sending out notifications or personalized messages post-mortem.
+
 5. **Simplicity**
 “Easy to use” is a leading code for design, considering the variety of users with different expertises in tech use. Suggesting a similar mental model with a traditional paper wills.
 
@@ -56,11 +58,11 @@ Discussion on different design alternatives, their pros and cons, and the decisi
 
 ---
 
-# Design Alternative 3: Digital Will Platform
+# Design Alternative 1
 
-A website/app concept where users can manage their digital legacy, including social media accounts and other digital assets.
+A certification authorized by the government which descendents could take it to the corresponding account company to inherit the account.
 
-![Digital Will Platform Concept](image1.png)
+(alter_1.jpg)
 
 ## Pros and Cons
 
