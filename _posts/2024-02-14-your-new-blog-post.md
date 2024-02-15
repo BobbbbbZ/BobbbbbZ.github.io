@@ -56,7 +56,6 @@ There’s some participants thinking of contact list inheritance or sending out 
 
 Discussion on different design alternatives, their pros and cons, and the decision to pursue a more user-friendly and legally compliant solution.
 
----
 
 # Design Alternative 1
 
@@ -108,11 +107,11 @@ Another rough idea is like an integrated account management system, but however 
 
 A website/app where users can log in to access their “digital will.”
 
-![Alternative Design 2](Image/MSII Update 2/lowfi_1.png)
+![Login Page](Image/MSII Update 2/lowfi_1.png)
 
 Once logged in, users will have the option to select any of the active “social media accounts.” When they click on one, it’s profile will pop up on the right. This will include instructions on how the account should be dealt with, the username/password, any additional security information (two-factor authentication, etc.), and an updated summary of any procedures that specific social media platform has for individuals who pass away.
 
-![Alternative Design 2](Image/MSII Update 2/lowfi_2.png)
+![Main Page](Image/MSII Update 2/lowfi_2.png)
 **Pros**
 
 - simple/easy to use
